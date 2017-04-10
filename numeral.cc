@@ -6,13 +6,13 @@
 #include "numeral.h"
 using namespace std;
 
-int num(int );
+int num(int n);
 int main()
 {
     cout<<"Numeral"<<endl;cout<<"Ingresa un numero : "<<endl;
   int b;
   cin>>b;
-    cout<<num(b);
+    cout<<"Numeral de "<<b<<" : "<<num(b);
     
     
 }
