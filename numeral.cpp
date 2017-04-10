@@ -1,5 +1,5 @@
 
-using namespace std
+using namespace std;
 
 int num(int n)
 {
