@@ -1,2 +1,2 @@
 #include "numeral.cpp"
-using namespace std
+using namespace std;
